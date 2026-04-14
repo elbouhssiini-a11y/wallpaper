@@ -2,6 +2,13 @@
   {
     "type": "image",
     "source": "wallpics",
+    "category": "cars",
+    "link": "https://i.pinimg.com/736x/60/11/56/601156244cbf63dd6fd33271fdfb8b59.jpg",
+    "id": 1
+  },
+  {
+    "type": "image",
+    "source": "wallpics",
     "category": "nature",
     "link": "https://i.pinimg.com/1200x/3b/b7/e0/3bb7e08bbc0b28c019812179ac802e18.jpg",
     "id": 2
